@@ -1,4 +1,5 @@
 window.onload = function() {
+  alert("READ THE INSTRUCTIONS! - For a fun game 😀")
   var canvas = document.getElementById("menorahCanvas");
   var ctx = canvas.getContext("2d");
   var width = canvas.width;
